@@ -6,11 +6,11 @@
 
 ### 1. Set Up Requirements:
 
-### 1.1 Anaconda and Jupyter Notebooks for running Python
+### 1.1. Anaconda and Jupyter Notebooks for running Python
 #### [Set up Guide](https://docs.anaconda.com/anaconda/install/mac-os/)
 
 
-### 1.2 Potential Library installations
+### 1.2. Potential Library installations
 #### Upon running the script some libraries may require an external downlaod to be used int he Jupyter Notebook; if this is an issue the script will flag these
 
 ### Script Description:
