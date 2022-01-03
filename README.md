@@ -18,7 +18,6 @@
 
 <br />
 
-## **Script Description:**
-### 1.
-### 2.
-### 3. 
+## **Basic Script Description:**
+### 1. Parses attendance certficates for particpant name, renames the file and links these files to a dataframe
+### 2. Certficates sent to participants from the dataframe information using a for loop for each line
