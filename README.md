@@ -14,7 +14,7 @@
 
 
 ### 1.2. Potential Library installations
-#### Upon running the script some libraries may require an external downlaod to be used int he Jupyter Notebook; if this is an issue the script will flag these
+#### Upon running the script some libraries may require an external downlaod to be used in the Jupyter Notebook; if this is an issue the script will flag these
 
 <br />
 
